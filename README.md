@@ -145,15 +145,4 @@ All scripts fix seeds for Python, NumPy, PyTorch (CPU and CUDA), and CuBLAS via 
 
 ---
 
-## Citation
 
-If you use this code, please cite:
-
-```bibtex
-@inproceedings{[citekey],
-  title   = {[Paper Title]},
-  author  = {[Authors]},
-  booktitle = {[Venue]},
-  year    = {[Year]}
-}
-```
