@@ -1,6 +1,6 @@
 # Conformal Prediction for Image Classification
 
-Companion code for the paper **"[Paper Title]"**.
+Companion code for the paper "Conformal Prediction for Reliable Image-based River Depth Classification".
 
 This repository contains scripts for training five ImageNet pre-trained backbones on a 4-class image dataset and evaluating them under three conformal prediction frameworks: Standard CP, Mondrian CP, and Adaptive Prediction Sets (APS). Statistical comparison across models is performed via Cochran's Q and pairwise McNemar tests.
 
